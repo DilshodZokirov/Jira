@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+validate-email = "*"
+pillow = "*"
+django-countries = "*"
+tokens = "*"
+django-email-verification = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

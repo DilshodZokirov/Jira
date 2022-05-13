@@ -1,0 +1,1 @@
+{% extends 'layout.html' %}{% block content %}    {% for comment in comments %}       <h1> {{ comment.text }}</h1>        <h1>Author:{{ comment.created_by }}|| Date:{{ comment.created_at }} </h1>    {% endfor %}{% endblock content %}

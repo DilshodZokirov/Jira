@@ -1,0 +1,20 @@
+{% extends 'layout.html' %}
+{% block title %}
+    Add Members
+{% endblock %}
+{% block content %}
+    <h1>Organization Create Members</h1>
+    {#        {% for org in organization %}#}
+    <form class="d-flex" method="GET" action="{% url 'organization:searched' %}">
+        {% csrf_token %}
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" name="search">
+        <button type="submit"><i class="fa fa-search"> Search</i></button>
+    </form>
+    {% if search %}
+        {% for member in name %}
+            <p></p>
+            <a href="{% url 'auth:profile' user_id=member.user.id %}">@{{ member.user.username }}</a>
+        {% endfor %}
+    {% endif %}
+    {#    {% endfor %}#}
+{% endblock %}

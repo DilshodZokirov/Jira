@@ -1,0 +1,1 @@
+{% extends 'layout.html' %}{% block content %}    <h1>Delete Organization</h1>    <form action="{% url 'project:delete_prj' project.slug %}" method="post">{% csrf_token %}        <p>"Would you like to delete an organization called {{ project.title }}?" </p>        <button class="btn btn-danger ml-2" type="submit">Yes</button>    </form>{% endblock content %}

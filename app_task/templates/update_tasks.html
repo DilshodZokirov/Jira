@@ -1,0 +1,1 @@
+{% extends 'layout.html' %}{% block content %}    <h1>Edit Page</h1>    <form method="post" enctype="multipart/form-data" action="{% url 'project:update_prj' project.slug %}">{% csrf_token %}        {{ form.as_p }}        <button class="btn btn-info ml-2" type="submit">Submit</button>    </form>{% endblock content %}

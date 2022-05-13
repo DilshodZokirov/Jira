@@ -1,0 +1,43 @@
+{% extends 'layout.html' %}
+{% block title %}
+
+{% endblock %}
+{% block content %}
+    <form action="" method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        <div class="mb-3">
+            <label for="{{ u_form.username.id_for_label }}"
+                   class="form-label">{{ u_form.username.label }}</label>
+            {{ u_form.username }}
+        </div>
+        <div class="mb-3">
+            <label for="{{ u_form.first_name.id_for_label }}"
+                   class="form-label">{{ u_form.first_name.label }}</label>
+            {{ u_form.first_name }}
+        </div>
+        <div class="mb-3">
+            <label for="{{ u_form.last_name.id_for_label }}" class="form-label">{{ u_form.last_name.label }}</label>
+            {{ u_form.last_name }}
+        </div>
+        <div class="mb-3">
+            <label for="{{ e_form.phone.id_for_label }}" class="form-label">{{ e_form.phone.label }}</label>
+            {{ e_form.phone }}
+        </div>
+        <div class="mb-3">
+            <label for="{{ e_form.profile_image.id_for_label }}"
+                   class="form-label">{{ e_form.profile_image.label }}</label>
+            {{ e_form.profile_image }}
+        </div>
+        <div class="mb-3">
+            <label for="{{ e_form.country.id_for_label }}"
+                   class="form-label">{{ e_form.country.label }}</label>
+            {{ e_form.country }}
+        </div>
+        <div class="mb-3">
+            <label for="{{ e_form.address.id_for_label }}"
+                   class="form-label">{{ e_form.address.label }}</label>
+            {{ e_form.address }}
+        </div>
+        <button class="btn btn-success" type="submit">Submit</button>
+    </form>
+{% endblock %}

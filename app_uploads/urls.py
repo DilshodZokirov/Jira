@@ -1,0 +1,1 @@
+from django.urls import path# from .views import upload, upload_page# from app_uploads.views import upload, upload_pageapp_name = 'upload'urlpatterns = [    # path('upload/', upload, name='upload'),    # path('upload_page/', upload_page, name='upload_page'),]

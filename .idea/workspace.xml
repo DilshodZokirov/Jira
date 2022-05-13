@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9da3bf86-7824-47e1-ba32-ed1c204d82c7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Jira/settings.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jira/views.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app_organization/models.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app_organization/templates/create_organizations.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app_organization/templates/organization_delete.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app_organization/templates/organization_detail.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app_organization/templates/organization_edit.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app_organization/urls.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app_organization/views.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app_uploads/views.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="20QG70UzGOL8Ok2voTQrflDahYW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/dz/PycharmProjects/task_work",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\django-portfolio\Jira\media\organization" />
+      <recent name="D:\django-portfolio\Jira\app_task\templates" />
+      <recent name="D:\django-portfolio\Jira\app_project\templates" />
+      <recent name="D:\django-portfolio\Jira\app_organization\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\django-portfolio\Jira\app_accounts" />
+      <recent name="D:\django-portfolio\Jira\app_accounts\migrations" />
+      <recent name="D:\django-portfolio\Jira\app_accounts\templates" />
+      <recent name="D:\django-portfolio\Jira\app_organization\template_tags" />
+      <recent name="D:\django-portfolio\Jira\app_organization" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.Jira">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Jira" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Jira" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app_project/tw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Jira" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Jira" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Jira.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://localhost:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.tw" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9da3bf86-7824-47e1-ba32-ed1c204d82c7" name="Changes" comment="" />
+      <created>1635969227065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635969227065</updated>
+      <workItem from="1635969262985" duration="3183000" />
+      <workItem from="1635978674043" duration="6986000" />
+      <workItem from="1636004428139" duration="3655000" />
+      <workItem from="1636012151505" duration="2050000" />
+      <workItem from="1636031015557" duration="2492000" />
+      <workItem from="1636051705962" duration="1904000" />
+      <workItem from="1636097817243" duration="2065000" />
+      <workItem from="1636105958758" duration="5022000" />
+      <workItem from="1636124773095" duration="4817000" />
+      <workItem from="1636134416933" duration="9759000" />
+      <workItem from="1636186138489" duration="1174000" />
+      <workItem from="1636202111666" duration="8437000" />
+      <workItem from="1636228426331" duration="2958000" />
+      <workItem from="1636270770863" duration="10414000" />
+      <workItem from="1636313434978" duration="6171000" />
+      <workItem from="1636326962856" duration="767000" />
+      <workItem from="1636362582719" duration="3398000" />
+      <workItem from="1636380915390" duration="5777000" />
+      <workItem from="1636392188313" duration="4053000" />
+      <workItem from="1636433850315" duration="10672000" />
+      <workItem from="1636447568817" duration="1501000" />
+      <workItem from="1636460444342" duration="1206000" />
+      <workItem from="1636480197772" duration="2750000" />
+      <workItem from="1636525734189" duration="4761000" />
+      <workItem from="1636533865768" duration="2522000" />
+      <workItem from="1636547155123" duration="60000" />
+      <workItem from="1636565758490" duration="9761000" />
+      <workItem from="1636608704426" duration="12546000" />
+      <workItem from="1636644123090" duration="3850000" />
+      <workItem from="1636655147005" duration="4570000" />
+      <workItem from="1636698046077" duration="2893000" />
+      <workItem from="1636701400032" duration="5468000" />
+      <workItem from="1636709451835" duration="2532000" />
+      <workItem from="1636720354688" duration="700000" />
+      <workItem from="1636728680293" duration="1294000" />
+      <workItem from="1636740603457" duration="3481000" />
+      <workItem from="1636781735485" duration="7473000" />
+      <workItem from="1636795382372" duration="521000" />
+      <workItem from="1636800250429" duration="612000" />
+      <workItem from="1636805624424" duration="186000" />
+      <workItem from="1636816765035" duration="3405000" />
+      <workItem from="1636827036995" duration="1245000" />
+      <workItem from="1636872973378" duration="375000" />
+      <workItem from="1636873558957" duration="354000" />
+      <workItem from="1636877746337" duration="8522000" />
+      <workItem from="1636952329227" duration="8733000" />
+      <workItem from="1636967635284" duration="1308000" />
+      <workItem from="1636995413596" duration="65000" />
+      <workItem from="1636996443246" duration="1670000" />
+      <workItem from="1637006049420" duration="649000" />
+      <workItem from="1637040831433" duration="3246000" />
+      <workItem from="1637044627508" duration="2045000" />
+      <workItem from="1637049654353" duration="1024000" />
+      <workItem from="1637065103195" duration="21000" />
+      <workItem from="1637069545013" duration="612000" />
+      <workItem from="1637076591803" duration="3468000" />
+      <workItem from="1637121981571" duration="11442000" />
+      <workItem from="1637158444502" duration="3676000" />
+      <workItem from="1637166090009" duration="6806000" />
+      <workItem from="1637179413617" duration="528000" />
+      <workItem from="1637210683657" duration="8365000" />
+      <workItem from="1637225677040" duration="1073000" />
+      <workItem from="1637231661946" duration="3171000" />
+      <workItem from="1637240943225" duration="1795000" />
+      <workItem from="1637258751230" duration="4242000" />
+      <workItem from="1637302241021" duration="429000" />
+      <workItem from="1637386753408" duration="5836000" />
+      <workItem from="1637421291745" duration="4529000" />
+      <workItem from="1637513783211" duration="2680000" />
+      <workItem from="1637566534265" duration="11681000" />
+      <workItem from="1637602316147" duration="9528000" />
+      <workItem from="1637646906745" duration="6469000" />
+      <workItem from="1637670044122" duration="126000" />
+      <workItem from="1637681225336" duration="3813000" />
+      <workItem from="1637692722154" duration="4204000" />
+      <workItem from="1637733148884" duration="5606000" />
+      <workItem from="1637752076776" duration="4710000" />
+      <workItem from="1637760003608" duration="2119000" />
+      <workItem from="1637777234123" duration="6353000" />
+      <workItem from="1637821378375" duration="357000" />
+      <workItem from="1637822583564" duration="367000" />
+      <workItem from="1637829064814" duration="364000" />
+      <workItem from="1637829469291" duration="17556000" />
+      <workItem from="1637856563477" duration="7040000" />
+      <workItem from="1637899425934" duration="436000" />
+      <workItem from="1637908103876" duration="1869000" />
+      <workItem from="1637923081955" duration="854000" />
+      <workItem from="1637929126267" duration="193000" />
+      <workItem from="1637937240231" duration="3479000" />
+      <workItem from="1637989088730" duration="13984000" />
+      <workItem from="1638016783790" duration="5129000" />
+      <workItem from="1638078217939" duration="5883000" />
+      <workItem from="1638119158220" duration="170000" />
+      <workItem from="1638162860047" duration="23000" />
+      <workItem from="1641382498620" duration="2923000" />
+      <workItem from="1642346160240" duration="3336000" />
+      <workItem from="1642704604593" duration="2990000" />
+      <workItem from="1642747803373" duration="1296000" />
+      <workItem from="1642759289289" duration="4754000" />
+      <workItem from="1642788490661" duration="2302000" />
+      <workItem from="1643001209491" duration="7876000" />
+      <workItem from="1643032432774" duration="918000" />
+      <workItem from="1643050895372" duration="1740000" />
+      <workItem from="1643093781628" duration="1668000" />
+      <workItem from="1643202795544" duration="1690000" />
+      <workItem from="1643222742850" duration="537000" />
+      <workItem from="1643262518547" duration="2843000" />
+      <workItem from="1643367928574" duration="703000" />
+      <workItem from="1643393181458" duration="1014000" />
+      <workItem from="1643436633308" duration="2628000" />
+      <workItem from="1644338188727" duration="2848000" />
+      <workItem from="1644381862870" duration="33000" />
+      <workItem from="1644385932688" duration="796000" />
+      <workItem from="1644398428103" duration="5728000" />
+      <workItem from="1645422311040" duration="1705000" />
+      <workItem from="1645454435907" duration="14000" />
+      <workItem from="1645512474011" duration="624000" />
+      <workItem from="1645602266427" duration="639000" />
+      <workItem from="1645615903312" duration="11000" />
+      <workItem from="1647608236190" duration="767000" />
+      <workItem from="1648109237992" duration="780000" />
+      <workItem from="1649249278122" duration="60000" />
+      <workItem from="1651913501546" duration="10876000" />
+      <workItem from="1651945972167" duration="7335000" />
+      <workItem from="1651994214652" duration="5533000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app_organization/views.py</url>
+          <line>165</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Jira$manage.coverage" NAME="manage Coverage Results" MODIFIED="1637841262965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Jira$tw.coverage" NAME="tw Coverage Results" MODIFIED="1636576755157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app_project" />
+  </component>
+</project>
